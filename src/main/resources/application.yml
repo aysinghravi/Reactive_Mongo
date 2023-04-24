@@ -1,0 +1,8 @@
+server:
+  port: 9595
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://myAtlasDBUser:Ravi@myatlasclusteredu.bn9tlnb.mongodb.net/?retryWrites=true&w=majority
+      database: ProductDb
